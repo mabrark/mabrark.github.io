@@ -18,7 +18,7 @@ header {
     border-top-right-radius: 16px;
     border: 2px solid #fff;
     background: url('../assets/images/header.jpg');
-    background-position: center;
+    background-position: cover;
     font-family: 'Tiny5', sans-serif;
     font-weight: 400;
     font-style: normal;
