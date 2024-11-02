@@ -18,6 +18,7 @@ header{
     border-top-right-radius: 16px;
     border: 2px solid #fff;
     background: url('../assets/images/header.jpg');
+    background-size: cover;
     background-position: center;
     font-family: 'Tiny5', sans-serif;
     font-weight: 400;
@@ -33,19 +34,17 @@ header{
         margin-top: -25px;
         background: rgba(255, 255, 255, .33);
     }
-    section {
+section {
         width: 100%;
         min-height: 300px;
         padding: 100px 50px;
         border: 3px solid #000;
     }
  #aboutSection {
-    width: 100%;
     background: #222;
     padding: 100px 50px;
     color: #fff;
     font-size: 1.2em;
-    border: 2px solid #000;
  }
     .fancyHeading {
         font-family: 'Tiny5', sans-serif;
@@ -64,7 +63,6 @@ header{
     background: #777;
     color: #333;
     text-align: center;
-    border: 2px solid #fff;
  }
     .thumbnail {
         width: 20%;
